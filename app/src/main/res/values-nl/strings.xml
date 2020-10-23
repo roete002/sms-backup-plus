@@ -210,7 +210,7 @@
   <string name="call_missed_text">Gemiste oproep van %1$s</string>
   <string name="call_incoming_text">Oproep van %1$s</string>
   <string name="call_outgoing_text">Gebeld naar %1$s</string>
-  <string name="call_rejected_text">Geweigered oproep van %1$s</string>
+  <string name="call_rejected_text">Geweigerde oproep van %1$s</string>
   <string name="call_voicemail_text">Oproep van %1$s (voicemail)</string>
 
   <string name="call_number_field">Nummer: %1$s</string>
